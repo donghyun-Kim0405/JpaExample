@@ -17,11 +17,9 @@
 
                 MySql로 개발 진행할 경우 MySQL로 설정을 해주어야 함
 
-               
+
                 방언 : SQL표준을 지키지 않는 특정 데이터베이스만의 고유한 기능
             -->
-
-
 
             <!-- 옵션 -->
             <property name="hibernate.show_sql" value="true"/>
